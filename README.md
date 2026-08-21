@@ -1,4 +1,4 @@
-# Creality Helper Script - K1C Support
+# Creality Helper Script - K1C Support (WIP, Currently way behind)
 
 ## About
 
